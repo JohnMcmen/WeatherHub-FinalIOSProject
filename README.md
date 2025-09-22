@@ -1,3 +1,15 @@
+# WeatherHub – iOS App
+
+WeatherHub is an iOS weather application built in SwiftUI as part of my coursework at Florida Atlantic University.  
+It integrates the Tomorrow.io Weather API to display current conditions and 5-day forecasts, using async/await for networking and JSON parsing.  
+
+**Key Features:**
+- SwiftUI interface with custom components
+- Async/await networking for API calls
+- 5-day forecast with data persistence
+- Dynamic UI updates and clean design
+
+⚡ Built as my final project for FAU’s Mobile App Development course.
 
 # WeatherHub
 
